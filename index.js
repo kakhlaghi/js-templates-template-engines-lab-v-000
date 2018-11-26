@@ -1,3 +1,3 @@
 function createPost(){
-  var page-template =
+  var page-template = document.getElementById("page-template")
 }
