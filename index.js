@@ -1,6 +1,6 @@
 function createPost(){
-  let page-template = document.getElementById("page-template").innerHTML;
-  let post-template = document.getElementById("post-template").innerHTML;
-  
+  let pageTemplate = document.getElementById("page-template").innerHTML;
+  let postTemplate = document.getElementById("post-template").innerHTML;
+  let commentTemplate = document.getElementById("comments-template").innerHTML;
 
 }
